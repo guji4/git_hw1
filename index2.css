@@ -1,0 +1,36 @@
+﻿
+h1 {
+    color: blue;
+    text-align: center;
+}
+body{ font:15px "궁서";}
+#body1 {background-color : #B9F5D5;
+	border:7px solid #555;}
+#body2 {background-color : #E1B9F5;
+	border:7px solid #555;}
+#body3 {background-color : #F5B9E4;
+	border:5px solid #333;}
+
+
+#nevigation {width:1000px;
+			height:40px;
+			padding:5px;
+			
+}
+
+#nevigation th,td {width:250px;
+			background-color:#000;
+			display:block;
+			text-align:center;
+			font:25px "맑은 고딕";
+border:2px solid #333;
+}
+
+#nevigation a { text-decoration:none;
+			color:#fff;
+}
+
+#nevigation a:hover { background-color:#fff;
+			color:#000;
+}
+

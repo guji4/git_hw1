@@ -1,0 +1,51 @@
+﻿
+h1 {
+    color: orange;
+    
+    text-align: center;
+	width:1200px
+}
+#body1 {background-color : #C3B9F5;
+	border:5px solid #333;}
+#body2 {background-color : #E1B9F5;
+	border:5px solid #333;}
+#body3 {background-color : #B9D3F5;
+	border:5px solid #333;}
+.attr {font:20px "맑은 고딕";
+	color:blue;}
+#nevigation {width:1000px;
+			height:40px;
+			padding:5px;
+			
+}
+
+#nevigation th,td {width:250px;
+			background-color:#000;
+			display:block;
+			text-align:center;
+			font:25px "맑은 고딕";
+border:2px solid #333;
+}
+
+#nevigation a { text-decoration:none;
+			color:#fff;
+}
+
+#nevigation a:hover { background-color:#fff;
+			color:#000;
+}
+body {
+    font: "맑은 고딕";
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+
